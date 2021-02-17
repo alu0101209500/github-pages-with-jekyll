@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Contenido que quiero
 
-I'm glad you are here. I plan to talk about ...
+que aparezca en mi página principal
